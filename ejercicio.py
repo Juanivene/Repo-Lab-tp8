@@ -125,3 +125,5 @@ def main():
         mostrar_informacion_alumno()
 
 main()
+ ## Direccion en la que ha sido publicada la aplicacion
+    # URL = 'https://venezianojuantp8.streamlit.app/'
